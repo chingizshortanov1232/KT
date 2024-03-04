@@ -83,6 +83,7 @@ Cоздали свой первый репозиторий и заполнили
 **git remote** - даём программе понять, что появился новый удалённый репозиторий
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Users\user\Desktop\Git](https://imgproxy.evilmartians.com/j01iIrLzqUq2ISQ6E7hlyaVGstY54YqNRyj2p-NFsPE/rs:fill:880:516/plain/https://brainwashing.pro/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--629745fbbe6baddded93a4fb901758c3117a3f7d/Brainwashing-RoR-Git.jpg)
 
 Ветка asgard в нее буду сливать все остальные
@@ -92,3 +93,9 @@ Cоздали свой первый репозиторий и заполнили
 
 ветка тор не конфликтная наверное
 >>>>>>> tor
+=======
+
+локи конфликтует обязан как говорится
+>>>>>>> loki
+
+в итоге своем конфликтуют все но вроде решил
